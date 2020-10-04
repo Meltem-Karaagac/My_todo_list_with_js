@@ -1,6 +1,6 @@
 
 
-const todoList = [];
+const todoList = []
 class TodoList {
   constructor(listElementParam) {
     this.todoListElement = listElementParam;
